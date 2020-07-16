@@ -1,1 +1,0 @@
-A system test is a type of test that test through your entire system

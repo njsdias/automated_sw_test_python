@@ -1,4 +1,0 @@
-This folder contains tests for methods / class / function
-that don't have any external dependencies
-
-Every test is a function and needs to start with word "test_"
