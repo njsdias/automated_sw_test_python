@@ -1,0 +1,5 @@
+Here is for tests that depends from one more classes
+
+FOr example test_create_post_in_blog depends from
+- Post class
+- and Blog class
